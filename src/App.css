@@ -1,0 +1,30 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    font-family: 'LCD', sans-serif;
+    font-family: 'LCD2', sans-serif;
+    font-family: 'LCDMono2', sans-serif;
+    font-family: 'LCDMono', sans-serif;
+    font-family: 'Digitalism', sans-serif;
+}
+
+.bg1 {
+    background-image: url(/images/universe1.webp);
+}
+
+.bg2 {
+    background-image: url(/images/universe2.webp);
+}
+
+.bg3 {
+    background-image: url(/images/universe3.webp);
+}
+
+.bg4 {
+    background-image: url(/images/universe4.webp);
+}
